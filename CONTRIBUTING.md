@@ -61,7 +61,7 @@ There are three places to get help:
 
 Badge guidelines
 ----------------
-
+ 
 - The left-hand side of a badge should not advertize. It should be a noun
   describing succinctly the meaning of the right-hand-side data.
 - New query parameters must be declared by the service. See
